@@ -58,11 +58,20 @@ An opinionated, curated list of awesome NDS/DSi development resources and tools.
 
 #### Other Libraries
 
+- [dsi_sdmmc](https://github.com/profi200/dsi_sdmmc) (MIT) - custom DSi TMIO/SDMMC driver.
+- [dsmi](https://github.com/asiekierka/dsmi/tree/master/ds/libdsmi) (LGPLv2.1) - MIDI interfacing library (via DSerial Edge or dswifi).
 - [posprintf](http://www.danposluns.com/gbadev/posprintf/index.html) - tiny, limited sprintf()-like library written in ARMv4 ASM.
 
 ## Open-source Homebrew
 
+As this list is written with developers in mind, this section only lists such programs whose codebases have clear licensing terms.
+
 ### Games
+
+* [MegaZeux](https://github.com/AliceLR/megazeux/tree/master/arch/nds) (GPLv2+) - text-mode-inspired PC game engine
+* [ScummVM](https://github.com/scummvm/scummvm/blob/master/doc/docportal/other_platforms/nintendo_ds.rst) (GPLv3+) - point-and-click adventure game engine
+* [Spelunky DS](https://github.com/dbeef/spelunky-ds) (GPLv3 + proprietary assets)
+* [WordleDS](https://github.com/Epicpkmn11/WordleDS) (GPLv3+)
 
 ### Applications
 
@@ -70,6 +79,8 @@ An opinionated, curated list of awesome NDS/DSi development resources and tools.
 * [uxnds](https://github.com/asiekierka/uxnds) (MIT) - [varvara](https://wiki.xxiivv.com/site/varvara.html) virtual machine implementation
 
 ### Demos
+
+* [tuna-viDS](https://github.com/chishm/tuna-vids) (GPLv2) - XviD video player
 
 ### Other Homebrew
 
