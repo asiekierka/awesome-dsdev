@@ -96,3 +96,4 @@ These are links to files and sources which are noteworthy from a historical pers
 
 - [Introduction to Nintendo DS Programming (2008)](https://www.patater.com/files/projects/manual/manual.html) - a crucial tutorial in the early days of Nintendo DS homebrew.
 - [The History of DS Homebrew (2008)](https://web.archive.org/web/20081022153947/http://www.ndshb.com/modules.php?name=Content&pa=showpage&pid=40&page=1) by James "Lynx" Zawacki - an oral record of the first years of the homebrew scene.
+- [A guide to homebrew development for the Nintendo DS (2008)](https://osdl.sourceforge.net/main/documentation/misc/nintendo-DS/homebrew-guide/HomebrewForDS.html) by Olivier Boudeville - a thorough overview of oldschool DS homebrew development.
