@@ -40,9 +40,9 @@ An opinionated, curated list of awesome NDS/DSi development resources and tools.
 
 ### Toolchains
 
-- [devkitARM](https://devkitpro.org/) - the community standard toolchain, maintained by the devkitPro organization.
+- [devkitARM](https://devkitpro.org/) - maintained by the devkitPro organization.
   - devkitPro and devkitARM are [trademarks](https://devkitpro.org/wiki/Trademarks) of Dave Murphy. This document is not endorsed by or connected to devkitPro.
-- [BlocksDS](https://github.com/blocksds/sdk) - a newer toolchain, maintained by AntonioND.
+- [BlocksDS](https://github.com/blocksds/sdk) - an alternate toolchain, maintained by AntonioND.
 
 ### Libraries
 
