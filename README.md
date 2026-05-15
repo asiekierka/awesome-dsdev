@@ -82,6 +82,7 @@ As this list is written with developers in mind, this section only lists such pr
 ### Demos
 
 * [tuna-viDS](https://github.com/chishm/tuna-vids) (GPLv2) - XviD video player
+* [hash-bench-nds](https://github.com/dmang-dev/hash-bench-nds) (MIT) - Hash-algorithm benchmark that times 32 cryptographic and non-cryptographic hashes (CRC, MD5, SHA-1, BLAKE2s, etc.) on the ARM946E and displays µs/iter and KB/s across both screens, using libnds
 
 ### Other Homebrew
 
